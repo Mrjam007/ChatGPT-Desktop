@@ -1,0 +1,25 @@
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\ChatGPT desktop.exe
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\ChatGPT desktop.deps.json
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\ChatGPT desktop.runtimeconfig.json
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\ChatGPT desktop.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\ChatGPT desktop.pdb
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.csproj.AssemblyReference.cache
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT_desktop.Form1.resources
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.csproj.GenerateResource.cache
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.AssemblyInfoInputs.cache
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.AssemblyInfo.cs
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.csproj.CoreCompileInputs.cache
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT .BE2C1658.Up2Date
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\refint\ChatGPT desktop.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.pdb
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT desktop.genruntimeconfig.cache
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ref\ChatGPT desktop.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\obj\Debug\net8.0-windows\ChatGPT_desktop.Properties.Resources.resources

@@ -1,0 +1,11 @@
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\ChatGPT desktop.exe
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\ChatGPT desktop.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\ChatGPT desktop.deps.json
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\ChatGPT desktop.runtimeconfig.json
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\ChatGPT desktop.pdb
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\Microsoft.Web.WebView2.Core.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\conno\source\repos\ChatGPT desktop\ChatGPT desktop\bin\Release\net8.0-windows\app.publish\Microsoft.Web.WebView2.Wpf.dll
